@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LathDesroses
-- 👀 I’m interested in Python, SQL, NoSQL and Data science.
-- 🌱 I’m currently learning Economy, Finance, programming, machine learning and data science.
-- 💞️ I’m looking to collaborate on Data science.
-- 📫 How to reach me essohlath95@gmail.com
+- 🔍 Passionate about Data Science, Machine Learning, and Financial Analytics
+- 💡 Interested in Python, SQL, NoSQL, and Data Science applied to Economy and Finance
+- 🚀 Currently learning Advanced Programming, Machine Learning, and Financial Modeling
+- 🤝 Open to collaboration on Data Science, AI, and Predictive Analytics projects
+- 📫 Feel free to reach out: essohlath95@gmail.com | lath.essoh@etu.unistra.fr
