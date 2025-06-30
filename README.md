@@ -2,4 +2,4 @@
 - 🔍 Passionate about Data Science, Economy, Insurance and Financial Analytics
 - 💡 Interested in Python, SQL, NoSQL, and Data Science applied to Business and Economy
 - 🤝 Open to collaboration on Data Science, AI, and Predictive Analytics projects
-- 📫 Feel free to reach out: essohlath95@gmail.com | lath.essoh@etu.unistra.fr
+- 📫 Feel free to reach out: essohlath95@gmail.com
